@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MobiusFF.Crypt": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Games\\SteamLibrary\\steamapps\\common\\MOBIUS FINAL FANTASY\\mobiusff_Data\\Managed\\Assembly-CSharp.dll\""
+    }
+  }
+}
