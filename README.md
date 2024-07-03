@@ -23,3 +23,7 @@ If the game is restarting when booted outside steam this is because `SteamAPI.Re
 Debug menu code is for most part stripped.
 
 `SystemConfig` reading is stripped, but if re-implemented could allow some internal game settings.
+
+## Credits
+
+Archival data retrieved from [archive.org](https://archive.org/details/@mobius_final_fantasy_backup).
