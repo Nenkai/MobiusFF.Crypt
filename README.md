@@ -8,7 +8,7 @@ Drag-drop `Assembly-CSharp.dll` or `.dat` files. `mainData` must be present in t
 
 ## Running decrypted `Assembly-CSharp.dll`
 
-Open `mobiusff.exe` with a hex-editor, replace the first `C6 45 60 01` with `C6 45 60 00`
+Open `mobiusff.exe` with a hex-editor, replace the first `C6 45 60 01` with `C6 45 60 00`. Since encryption is enforced, this will simply skip it.
 
 If you'd like to use dnSpyEx *and* debug, follow [this](https://github.com/dnSpyEx/dnSpy/wiki/Debugging-Unity-Games) and grab [unity-5.0.1.rar here](https://github.com/wh0am15533/Patched-Unity-Mono/tree/main/CustomBuilds/Unity-debugging-5.x). Use `win64`.
 
